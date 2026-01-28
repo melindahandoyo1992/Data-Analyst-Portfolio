@@ -10,9 +10,9 @@ The goal is to generate actionable insights through exploratory data analysis in
 ## Business Questions
 
 The analysis aims to answer the following questions : 
-  •	How loyal are the customers?
-	•	How does customer value differ across segments?
-	•	How do customers behave in each segment in terms of purchase timing, frequency, and revenue?
+  - 	How loyal are the customers?
+  - 	How does customer value differ across segments?
+  - 	How do customers behave in each segment in terms of purchase timing, frequency, and revenue?
 	•	How do customers behave in terms of product selection, order timing, and repeat purchases?
 	•	What strategies are most appropriate for each customer segment?
   
